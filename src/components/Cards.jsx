@@ -5,17 +5,17 @@ const Cards = () => {
 
   const data = [
     {
-      image:"/images/logo-chrome.svg",
+      image:"/bookmark-landing-page/images/logo-chrome.svg",
       title:"Chrome",
       version:"62"
     },
     {
-      image:"/images/logo-firefox.svg",
+      image:"/bookmark-landing-page/images/logo-firefox.svg",
       title:"Firefox",
       version:"55"
     },
     {
-      image:"/images/logo-opera.svg",
+      image:"/bookmark-landing-page/images/logo-opera.svg",
       title:"Opera",
       version:"46"
     }

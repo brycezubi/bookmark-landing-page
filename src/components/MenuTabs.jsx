@@ -14,7 +14,7 @@ export default function MenuTabs() {
       value: "1",
       title:"Bookmark in on Click",
       desc: `Organize your bookmarks however you like.Our simple drag-and-drop interface gives you complete control over how you manage your favorites sites.`,
-      img:"/images/illustration-features-tab-1.svg",
+      img:"/bookmark-landing-page/images/illustration-features-tab-1.svg",
       action:false
     },
     {
@@ -22,7 +22,7 @@ export default function MenuTabs() {
       value: "2",
       title:"Intelligent Search",
       desc: `Our powerful search feature will help you find saved sites in no time at all . No need to trawl through all of your bookmarks.`,
-      img:"/images/illustration-features-tab-2.svg",
+      img:"/bookmark-landing-page/images/illustration-features-tab-2.svg",
       action:true
 
     },
@@ -31,7 +31,7 @@ export default function MenuTabs() {
       value: "3",
       title : "Share your bookmarks",
       desc: `Easily your bookmarks and collections with others.Create a shareable link that you can send at the click of a button`,
-      img:"/images/illustration-features-tab-3.svg",
+      img:"/bookmark-landing-page/images/illustration-features-tab-3.svg",
       action:true
 
     }
